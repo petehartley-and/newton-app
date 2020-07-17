@@ -1,0 +1,5 @@
+include ':core'
+include ':login'
+include ':comms'
+include ':app'
+rootProject.name = "Newton App"
